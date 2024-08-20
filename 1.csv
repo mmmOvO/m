@@ -1,0 +1,8 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+14.119.112.72,36238,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,99,60.76
+163.177.58.169,25431,TRUE,HKG,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,124,39.77
+14.119.112.77,11449,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,115,35.15
+183.236.51.16,12199,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",176,23.44
+14.119.112.77,25892,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,109,12.67
+47.76.33.40,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",120,8.63
+47.76.33.40,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",791,8.25
