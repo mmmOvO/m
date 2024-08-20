@@ -1,0 +1,4 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+14.119.112.77,11449,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,108,41.87
+14.119.112.72,30493,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,149,33.64
+14.119.112.77,25892,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,147,24.87
