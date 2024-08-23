@@ -1,6 +1,5 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 203.156.198.110,25506,TRUE,NRT,JP,Asia Pacific,Tokyo,4812,China Telecom Group,197,9.23
-14.119.112.77,26207,TRUE,NRT,JP,Asia Pacific,Tokyo,4134,Chinanet,425,27.62
 203.156.198.110,25152,TRUE,NRT,JP,Asia Pacific,Tokyo,4812,China Telecom Group,236,9.24
 47.236.125.62,2096,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",884,15.26
-203.156.198.110,27912,TRUE,NRT,JP,Asia Pacific,Tokyo,4812,China Telecom Group,218,8.45
+14.119.112.77,26207,TRUE,NRT,JP,Asia Pacific,Tokyo,4134,Chinanet,430,32.79
