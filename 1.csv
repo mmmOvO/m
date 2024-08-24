@@ -1,31 +1,39 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+183.236.51.57,29546,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",208,37.30
 183.236.51.57,25504,TRUE,NRT,JP,Asia Pacific,Tokyo,9808,"China Mobile Communications Group Co., Ltd.",369,38.41
 183.236.51.57,25688,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",166,21.74
 183.236.51.57,25600,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",186,26.41
+183.236.51.57,25795,TRUE,NRT,JP,Asia Pacific,Tokyo,9808,"China Mobile Communications Group Co., Ltd.",355,17.46
 183.236.51.57,27871,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",185,43.38
 183.236.51.57,29546,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",165,20.17
 183.236.51.57,30578,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",191,28.82
 183.236.51.57,32569,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",358,13.00
+47.238.35.50,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",135,16.87
+47.238.35.50,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",143,12.34
+47.238.35.50,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",145,12.07
+47.238.35.50,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,23.54
+47.238.6.58,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",155,25.55
+47.238.6.58,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",184,25.77
+47.238.6.58,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",186,20.00
+47.238.6.58,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",177,13.17
+47.76.203.101,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",166,27.21
+47.76.203.101,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",156,18.32
+47.76.203.101,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",194,31.76
+47.76.203.101,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",165,15.19
 183.236.51.16,10676,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",165,37.59
 183.236.51.16,10908,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",170,26.85
 183.236.51.16,12199,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",194,35.29
-47.76.204.76,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",138,12.36
-47.76.204.76,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",164,16.31
-47.76.204.76,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",161,23.91
-47.76.222.57,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",126,31.55
-47.76.222.57,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",162,30.29
-47.76.222.57,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",145,15.77
-47.76.222.57,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",119,25.23
 163.177.58.169,25286,TRUE,HKG,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,145,13.25
 163.177.58.169,25431,TRUE,HKG,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,308,48.73
 163.177.58.169,25663,TRUE,HKG,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,124,54.47
+47.238.5.0,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",299,27.24
+47.238.5.0,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",123,28.88
+47.238.5.0,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",158,24.60
 14.119.112.72,25214,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,300,35.18
 14.119.112.72,27850,TRUE,NRT,JP,Asia Pacific,Tokyo,4134,Chinanet,250,35.69
 14.119.112.77,10234,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,301,20.57
-14.119.112.77,11941,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,100,43.81
+47.76.146.1,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",178,10.66
+47.76.146.1,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",159,10.10
 183.94.30.165,25975,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,469,35.02
 120.233.31.221,31229,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,172,10.97
-
-
-
-
+47.76.49.246,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",176,26.96
