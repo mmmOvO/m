@@ -1,10 +1,9 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+8.222.193.65,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",632,12.84
 8.222.193.65,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",751,8.59
-47.237.83.20,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",643,19.44
-47.237.83.20,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",665,18.88
-47.236.180.51,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",677,18.27
-8.222.237.131,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",676,17.86
-8.222.193.65,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",662,11.38
-47.236.180.51,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",697,17.21
+8.222.193.65,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",613,12.78
 8.222.193.65,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",653,12.99
-14.119.112.72,28279,TRUE,SIN,SG,Asia Pacific,Singapore,4134,Chinanet,409,11.18
+8.222.237.131,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",676,17.86
+183.236.51.57,30606,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",461,8.58
+14.119.112.72,28279,TRUE,SIN,SG,Asia Pacific,Singapore,4134,Chinanet,363,26.76
+47.236.123.133,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",607,11.90
