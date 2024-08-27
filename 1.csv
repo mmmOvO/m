@@ -1,5 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,25504,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",191,46.46
 183.236.51.57,25600,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",186,26.41
 183.236.51.57,25688,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",211,26.01
 183.236.51.57,25795,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",195,55.80
