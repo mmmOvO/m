@@ -1,5 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.94.30.165,47926,TRUE,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,259,31.51
-172.84.92.174,8526,TRUE,NRT,JP,Asia Pacific,Tokyo,11161,DIGITALVIRT,213,11.93
-14.119.112.77,26207,TRUE,NRT,JP,Asia Pacific,Tokyo,4134,Chinanet,388,39.18
-14.119.112.72,27850,TRUE,NRT,JP,Asia Pacific,Tokyo,4134,Chinanet,243,18.24
+183.94.30.165,47428,TRUE,SIN,SG,Asia Pacific,Singapore,4837,CHINA UNICOM China169 Backbone,501,17.48
+14.119.112.72,27850,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,129,60.44
+183.236.51.57,25504,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",166,9.11
