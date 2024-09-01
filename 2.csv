@@ -1,6 +1,3 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-163.177.58.169,29977,TRUE,ICN,KR,Asia Pacific,Seoul,135061,China Unicom Guangdong IP network,339,20.78
-125.133.233.48,30100,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,223,9.45
-183.107.148.206,18104,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,263,8.35
-125.133.233.48,30059,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,181,8.23
-121.140.9.141,27015,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,210,8.00
+125.133.233.48,30051,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,174,8.11
+125.133.233.48,30059,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,287,8.74
