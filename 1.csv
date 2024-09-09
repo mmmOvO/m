@@ -1,8 +1,13 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+183.236.51.57,25600,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",186,28.91
 183.236.51.57,27871,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",187,26.05
 183.236.51.57,28762,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",226,27.42
 183.236.51.57,30578,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",217,32.05
 183.236.51.57,32569,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",385,18.91
+183.236.51.57,32878,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",265,13.86
+183.236.51.57,56342,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",272,14.28
+14.119.112.77,12496,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,82,52.04
 14.119.112.72,25214,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,295,38.21
-14.119.112.77,12496,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,89,10.14
-183.236.51.16,12355,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",154,20.20
+14.119.112.72,28741,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,100,41.08
+163.177.58.169,25286,TRUE,HKG,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,162,13.42
+183.94.30.165,29312,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,210,28.54

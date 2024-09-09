@@ -1,8 +1,6 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 125.133.233.48,30051,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,174,8.11
-222.121.231.212,10010,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,234,8.54
-222.121.231.212,12106,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,180,7.92
-121.146.123.101,10939,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,255,7.26
-121.151.223.104,12576,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,215,7.29
-175.210.23.62,30059,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,197,7.71
-61.81.112.29,18245,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,270,7.42
+218.38.33.77,12454,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,160,8.83
+210.97.99.178,10095,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,202,8.79
+210.223.193.152,30019,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,173,8.52
+
