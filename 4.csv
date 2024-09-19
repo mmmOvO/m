@@ -1,3 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-163.177.58.169,35171,TRUE,TPE,TW,Asia Pacific,Taipei,135061,China Unicom Guangdong IP network,249,24.34
-36.150.95.237,32001,TRUE,TPE,TW,Asia Pacific,Taipei,56046,China Mobile communications corporation,561,11.02
+183.236.51.57,25914,TRUE,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",239,13.18
+163.177.58.169,35171,TRUE,TPE,TW,Asia Pacific,Taipei,135061,China Unicom Guangdong IP network,196,12.58
+183.94.30.165,45382,TRUE,TPE,TW,Asia Pacific,Taipei,4837,CHINA UNICOM China169 Backbone,322,12.23
