@@ -1,9 +1,1 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,25600,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",221,10.87
-183.236.51.57,27638,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",219,24.04
-14.119.112.77,12496,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,89,29.90
-14.119.112.77,13785,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,112,32.93
-14.119.112.72,25214,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,295,17.31
-14.119.112.72,28741,TRUE,HKG,HK,Asia Pacific,Hong Kong,4134,Chinanet,115,45.12
-163.177.58.169,25286,TRUE,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,127,19.50
-183.94.30.165,26222,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,210,9.01
