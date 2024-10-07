@@ -1,1 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+220.70.68.158,10084,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,147,10.04
+183.103.248.48,10088,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,59,9.16
+183.108.81.17,10087,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,51,9.06
